@@ -20,8 +20,6 @@ Possui programas para cada tipo de estrutura:
 - Pilha
 - Árvore
 
-No final possui um projeto final
-
 ### Trabalho do Elevador
 O trabalho consiste em desenvolver um programa que simula a operação dos elevadores em um prédio que pode ter quantidade de andares e elevadores variados
 
